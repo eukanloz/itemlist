@@ -1,1 +1,530 @@
-[]
+[
+  {
+    "author": "bradson",
+    "name": "Fishery - Modding Library",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "klvlt",
+    "name": "Almost Impassable Tables",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dninemfive",
+    "name": "Ambrosial Longevity",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Haecriver",
+    "name": "Assignment Copy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Mechanical Biomimetics",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha and SmashPhil",
+    "name": "Vanilla Apparel Expanded — Accessories",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Dallt",
+    "name": "Augmented Vanilla - Injectors ",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Razor 2.3",
+    "name": "Auto-Cut Blight",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "YAYO",
+    "name": "Better Jump Pack (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Falconne",
+    "name": "Better Workbench Management",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "m00nl1ght-dev",
+    "name": "Biome Transitions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "DOOM - Factions (Continued)",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "cat2002 - Troopersmith1 - Linq- deathrat",
+    "name": "Death Rattle Continued [1.2+]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Defensive Positions",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Door Clearance",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "telardo",
+    "name": "DragSelect",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Core",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Advanced Shields",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Eccentric Tech - Foxy's Armory 2.0",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortifications - Industrial",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AobaKuma",
+    "name": "Fortification Industrial - Citadel",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Aelanna",
+    "name": "Get Out Of My Chair!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Syrus",
+    "name": "Healer Mech Serum Choice",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "rswallen",
+    "name": "Linked Planters",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Smash Phil",
+    "name": "Loading In Progress",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "MasterOfGrey",
+    "name": "MH: Frames Reforged",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "CaptainGeorge",
+    "name": "Malnutrition Reworked",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Xeyeco",
+    "name": "Manned Maneuvering Unit",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LegitGamer1017",
+    "name": "MedPod Luciferium Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Antaios",
+    "name": "Mod Medicine Patch",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Killathon",
+    "name": "MH: Military Tiers",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Indonesian Gentleman",
+    "name": "Paintjobs for Military Androids",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Buildings",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Doors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Perspective: Trees",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Medicalpol",
+    "name": "Pristine Nature",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoldierGG1",
+    "name": "Quasimorph - Realware™ armoury",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "AOBA",
+    "name": "RimThunder - Mobile Infantry",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Scorpio",
+    "name": "SOS2 EVA auto patcher",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Roolo",
+    "name": "Search and Destroy",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Simple Utilities: Fridge",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "dhultgren",
+    "name": "Smarter Construction",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "SoulfulPumpkin",
+    "name": "Tabletop Trove - Additional Joy Objects and Decor",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "GwenBlanketSpecter",
+    "name": "Togglable Storage Item Visibility",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Owlchemist",
+    "name": "Underground Power Conduits",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Beards Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Medical Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Trunken",
+    "name": "Vanilla Furniture Expanded - Production",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "OskarPotocki, Atlas and Kikohi",
+    "name": "Vanilla Furniture Expanded - Spacer Module",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Neronix17",
+    "name": "Vanilla Hair Retextured",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Ideology Expanded - Icons and Symbols",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and legodude17",
+    "name": "Vanilla Ideology Expanded - Relics and Artifacts",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and Chowder",
+    "name": "Vanilla Plants Expanded",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, Sarg Bjornson and RedMattis",
+    "name": "Vanilla Races Expanded - Pigskin",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Races Expanded - Waster",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, xrushha, Smash Phil, Taranchuk and Reann Shepard",
+    "name": "Vanilla Vehicles Expanded - Tier 3",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Magnetic Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Plasma Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "flangopink",
+    "name": "Vanilla XCOM Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Alan Dariva and Usagirei",
+    "name": "More Planning [1.4]",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "UnlimitedHugs",
+    "name": "Allow Tool",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki and Sarg Bjornson",
+    "name": "Vanilla Furniture Expanded - Power",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Complex Jobs",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Filth Vanishes With Rain And Time",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] More Quests",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "FrozenSnowFox",
+    "name": "[FSF] Simply Soil",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Carny Senpai",
+    "name": "Enable Oversized Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki, AveryTheKitty and Taranchuk",
+    "name": "Vanilla Weapons Expanded - Coilguns",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Oskar Potocki",
+    "name": "Vanilla Weapons Expanded - Laser",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - CORE",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Chapter #1",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Chapter #2",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Community Pack",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Desert Tech Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - FN SCAR",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - KRISS Vector",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - KS-23 Shotgun",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - Kel-Tec Firearms",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Harkon",
+    "name": "[HRK] Gun Nut - M5 SPEAR, M250 & MG 338",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "LimeTreeSnake",
+    "name": "[LTS]Furnishing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker and Taranchuk",
+    "name": "[RH2] CPERS: Arrest Here!",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Clothing",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Security",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Rimmu-Nation² - Weapons",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Chicken Plucker",
+    "name": "[RH2] Uncle Boris' - Used Furniture",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Expanded Floors",
+    "steamId": null,
+    "version": null
+  },
+  {
+    "author": "Wemd",
+    "name": "[WD] Realistic Darkness (Light)",
+    "steamId": null,
+    "version": null
+  }
+]
